@@ -1,0 +1,30 @@
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Contracts\bin\Debug\net8.0\Infrastructure.deps.json
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Contracts\bin\Debug\net8.0\Infrastructure.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Contracts\bin\Debug\net8.0\Infrastructure.pdb
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Contracts\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Contracts\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Contracts\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Contracts\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Contracts\obj\Debug\net8.0\Infrastructure.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Contracts\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Contracts\obj\Debug\net8.0\Infrastructure.pdb
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Contracts\obj\Debug\net8.0\ref\Infrastructure.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Contracts\bin\Debug\net8.0\Domain.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Contracts\bin\Debug\net8.0\Domain.pdb
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Contracts\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Contracts\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Bank.Api\Contracts\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Bank.Api\Contracts\bin\Debug\net8.0\Infrastructure.dll
+D:\Bank.Api\Contracts\bin\Debug\net8.0\Infrastructure.pdb
+D:\Bank.Api\Contracts\bin\Debug\net8.0\Domain.dll
+D:\Bank.Api\Contracts\bin\Debug\net8.0\Domain.pdb
+D:\Bank.Api\Contracts\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Bank.Api\Contracts\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bank.Api\Contracts\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Bank.Api\Contracts\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Bank.Api\Contracts\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Bank.Api\Contracts\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Bank.Api\Contracts\obj\Debug\net8.0\Infrastructure.dll
+D:\Bank.Api\Contracts\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Bank.Api\Contracts\obj\Debug\net8.0\Infrastructure.pdb
+D:\Bank.Api\Contracts\obj\Debug\net8.0\ref\Infrastructure.dll

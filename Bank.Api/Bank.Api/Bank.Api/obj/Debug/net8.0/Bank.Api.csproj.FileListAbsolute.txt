@@ -1,0 +1,232 @@
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\appsettings.json
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Bank.Api.exe
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Bank.Api.deps.json
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Bank.Api.runtimeconfig.json
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Bank.Api.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Bank.Api.pdb
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.csproj.AssemblyReference.cache
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.AssemblyInfoInputs.cache
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.AssemblyInfo.cs
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.csproj.CoreCompileInputs.cache
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\staticwebassets\msbuild.Bank.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Bank.Api.props
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bank.Api.props
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bank.Api.props
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\scopedcss\bundle\Bank.Api.styles.css
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.csproj.Up2Date
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\refint\Bank.Api.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.pdb
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.genruntimeconfig.cache
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\obj\Debug\net8.0\ref\Bank.Api.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Azure.Core.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\FluentValidation.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Humanizer.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\System.CodeDom.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Application.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Domain.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Infrastructure.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Application.pdb
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Infrastructure.pdb
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Domain.pdb
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\AutoMapper.dll
+D:\one drive\OneDrive - Ramco Systems Limited\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\appsettings.Development.json
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\appsettings.json
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Bank.Api.staticwebassets.endpoints.json
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Bank.Api.exe
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Bank.Api.deps.json
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Bank.Api.runtimeconfig.json
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Bank.Api.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Bank.Api.pdb
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\AutoMapper.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Azure.Core.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Azure.Identity.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\FluentValidation.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Application.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Domain.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Infrastructure.dll
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Application.pdb
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Infrastructure.pdb
+D:\Bank.Api\Bank.Api\bin\Debug\net8.0\Domain.pdb
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.csproj.AssemblyReference.cache
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.AssemblyInfoInputs.cache
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.AssemblyInfo.cs
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.csproj.CoreCompileInputs.cache
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\scopedcss\bundle\Bank.Api.styles.css
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\staticwebassets\msbuild.Bank.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\staticwebassets\msbuild.Bank.Api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Bank.Api.props
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bank.Api.props
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bank.Api.props
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.csproj.Up2Date
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.dll
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\refint\Bank.Api.dll
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.pdb
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\Bank.Api.genruntimeconfig.cache
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\ref\Bank.Api.dll
+D:\Bank.Api\Bank.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
